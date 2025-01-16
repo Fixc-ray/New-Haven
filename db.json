@@ -1,0 +1,798 @@
+{
+  "beers": [
+    {
+      "name": "WHITE CUP LAGER",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "WHITE CUP CRISP",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TUSKER LAGER",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TUSKER MALT",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TUSKER LITE",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TUSKER CIDER",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GUINNESS STOUT",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GUINNESS SMOOTH",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "BALOZI",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "PILSNER",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GUARANA",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "BLACK ICE",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "PINEAPPLE PUNCH",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SNAPP",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "KA",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "MANYATTA",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "HUNTERS DRY",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "HUNTERS GOLD",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SAVANNA DRY",
+      "price": 350,
+      "image": "url_to_image"
+    },
+    {
+      "name": "HEINEKEN",
+      "price": 400,
+      "image": "url_to_image"
+    },
+    {
+      "name": "HEINEKEN ZERO",
+      "price": 400,
+      "image": "url_to_image"
+    },
+    {
+      "name": "DESPERADO",
+      "price": 400,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GORDONS & TONIC CAN",
+      "price": 300,
+      "image": "url_to_image"
+    }
+  ],
+  "cigarettes": [
+    {
+      "name": "DUNHILL SINGLE SWITCH",
+      "price": 600,
+      "image": "url_to_image"
+    },
+    {
+      "name": "DUNHILL DOUBLE SWITCH",
+      "price": 600,
+      "image": "url_to_image"
+    },
+    {
+      "name": "EMBASSY LITE",
+      "price": 600,
+      "image": "url_to_image"
+    }
+  ],
+
+  "whiskys": [
+    {
+      "name": "J/W BLACK LABEL",
+      "shot_price": 350,
+      "350ml_price": 2100,
+      "750ml_price": 4500,
+      "1ltr_price": 5600,
+      "image": "url_to_image"
+    },
+    {
+      "name": "JACK DANIELS",
+      "shot_price": 350,
+      "750ml_price": 5000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "JACK DANIELS HONEY",
+      "750ml_price": 5000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "JAMESON",
+      "shot_price": 250,
+      "350ml_price": 1800,
+      "750ml_price": 3500,
+      "1ltr_price": 4500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "DOUBLE BLACK J/W",
+      "shot_price": 450,
+      "750ml_price": 7500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "CHIVAS 12YRS",
+      "shot_price": 400,
+      "750ml_price": 5500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TULLAMOR DEW",
+      "350ml_price": 3000,
+      "750ml_price": 3800,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GRANTS",
+      "350ml_price": 3000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "JIM BEAM",
+      "750ml_price": 4000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GENTLEMAN JACK",
+      "shot_price": 350,
+      "750ml_price": 7800,
+      "1ltr_price": 8600,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SINGLETON 12YRS",
+      "750ml_price": 6900,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SINGLETON 15YRS",
+      "750ml_price": 9500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GLENLIVET 12YRS",
+      "750ml_price": 7900,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GLENLIVET FOUNDERS RESERVE",
+      "750ml_price": 7000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GLENFIDDICH 12YRS",
+      "750ml_price": 8500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GLENFIDDICH 15YRS",
+      "750ml_price": 13000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "VICEROY",
+      "shot_price": 150,
+      "350ml_price": 1300,
+      "750ml_price": 2500,
+      "image": "url_to_image"
+    }
+  ],
+  "cognacs": [
+    {
+      "name": "HENNESSY VS",
+      "shot_price": 450,
+      "750ml_price": 7100,
+      "image": "url_to_image"
+    },
+    {
+      "name": "MARTEL VS",
+      "shot_price": 400,
+      "750ml_price": 7900,
+      "image": "url_to_image"
+    },
+    {
+      "name": "MARTEL VSOP",
+      "shot_price": 600,
+      "750ml_price": 11500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "REMMY MARTIN VS",
+      "shot_price": 550,
+      "image": "url_to_image"
+    }
+  ],
+  "wines": [
+    {
+      "name": "MUCHO MAS",
+      "glass_price": null,
+      "bottle_price": 3500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TRUMPETER",
+      "glass_price": null,
+      "bottle_price": 3500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "NEDERBURG (MERLOT)",
+      "glass_price": null,
+      "bottle_price": 2800,
+      "image": "url_to_image"
+    },
+    {
+      "name": "NEDERBURG (CHARONAY)",
+      "glass_price": null,
+      "bottle_price": 2500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "NEDERBURG ROSE",
+      "glass_price": null,
+      "bottle_price": 2500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "FRONTERA (Cabernet Sauvignon)",
+      "glass_price": 400,
+      "bottle_price": 2500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "FRONTERA (Chardonnay)",
+      "glass_price": 400,
+      "bottle_price": 2500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "DROSTDY HOF RED/WHITE",
+      "glass_price": 300,
+      "bottle_price": 2000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "ROBERTSON RED/WHITE",
+      "glass_price": null,
+      "bottle_price": 2000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "4TH STREET RED/WHITE",
+      "glass_price": 300,
+      "bottle_price": 2000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "FOUR COUSINS RED/WHITE",
+      "glass_price": 300,
+      "bottle_price": 2000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "CELLAR CASK RED/WHITE",
+      "glass_price": 300,
+      "bottle_price": 1500,
+      "image": "url_to_image"
+    }
+  ],
+  "gins": [
+    {
+      "name": "HENDRICKS",
+      "shot_price": null,
+      "350ml_price": null,
+      "750ml_price": 7200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TANQUERAY 10",
+      "shot_price": null,
+      "350ml_price": null,
+      "750ml_price": 6500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TANQUERAY DRY GIN",
+      "shot_price": 350,
+      "350ml_price": null,
+      "750ml_price": 4500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "MALFY PINK",
+      "shot_price": 250,
+      "350ml_price": null,
+      "750ml_price": 5200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "MALFY",
+      "shot_price": 250,
+      "350ml_price": null,
+      "750ml_price": 5200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GORDONS DRY GIN",
+      "shot_price": 200,
+      "350ml_price": 1300,
+      "750ml_price": 3000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GORDONS LEMON",
+      "shot_price": 200,
+      "350ml_price": null,
+      "750ml_price": 3000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GORDONS PINK",
+      "shot_price": 200,
+      "350ml_price": null,
+      "750ml_price": 3000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "BEEFEATER",
+      "shot_price": null,
+      "350ml_price": null,
+      "750ml_price": 2500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GILBEYS",
+      "shot_price": 150,
+      "350ml_price": 1000,
+      "750ml_price": 2000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GIN 58",
+      "shot_price": 150,
+      "350ml_price": null,
+      "750ml_price": 2000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GIN MORE",
+      "shot_price": null,
+      "350ml_price": null,
+      "750ml_price": 7200,
+      "image": "url_to_image"
+    }
+  ],
+  "vodka": [
+    {
+      "name": "ABSOLUTE VODKA",
+      "shot_price": 300,
+      "350ml_price": null,
+      "750ml_price": 3500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SMINORFF VODKA",
+      "shot_price": 150,
+      "350ml_price": 1200,
+      "750ml_price": 2200,
+      "image": "url_to_image"
+    }
+  ],
+  "tequila": [
+    {
+      "name": "JOSE QUERVO SILVER/GOLD",
+      "shot_price": 250,
+      "750ml_price": 4800,
+      "image": "url_to_image"
+    },
+    {
+      "name": "CAMINO CLEAR/GOLD",
+      "shot_price": 250,
+      "750ml_price": 3000,
+      "image": "url_to_image"
+    }
+  ],
+  "rum": [
+    {
+      "name": "MALIBU",
+      "shot_price": 300,
+      "750ml_price": 2600,
+      "image": "url_to_image"
+    },
+    {
+      "name": "BARCADI",
+      "shot_price": 250,
+      "750ml_price": 2000,
+      "image": "url_to_image"
+    }
+  ],
+  "liqueur": [
+    {
+      "name": "BARLEYS",
+      "750ml_price": 3000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "AMARULA",
+      "750ml_price": 2700,
+      "image": "url_to_image"
+    },
+    {
+      "name": "JAGARMEISTER",
+      "750ml_price": 4000,
+      "image": "url_to_image"
+    },
+    {
+      "name": "KAHLUA",
+      "750ml_price": 5500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "CONTREAU",
+      "750ml_price": 2100,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SOUTHERN COMFORT",
+      "750ml_price": 3500,
+      "image": "url_to_image"
+    }
+  ],
+  "soft_drinks": [
+    {
+      "name": "REDBULL",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "KERINGET WATER",
+      "size": "500ml",
+      "price": 100,
+      "image": "url_to_image"
+    },
+    {
+      "name": "MONSTER",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "KERINGET WATER",
+      "size": "1ltr",
+      "price": 200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "DELMONTE",
+      "price": 500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SPARKLING WATER",
+      "size": "1ltr",
+      "price": 200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SODA",
+      "price": 100,
+      "image": "url_to_image"
+    },
+    {
+      "name": "ORANGE JUICE",
+      "size": "glass",
+      "price": 500,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GINGER ALE",
+      "price": 200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "FRESH JUICE",
+      "price": 400,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TONIC WATER",
+      "price": 120,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SODA WATER",
+      "price": 120,
+      "image": "url_to_image"
+    },
+    {
+      "name": "DAWA",
+      "price": 200,
+      "image": "url_to_image"
+    }
+  ],
+  "mocktails": [
+    {
+      "name": "LEMONADE",
+      "ingredients": ["Lime", "Syrup"],
+      "price": 200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "VIRGIN MOJITO",
+      "ingredients": ["Soda Water", "Mint", "Syrup"],
+      "price": 200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "ORANGE SUNSET",
+      "ingredients": ["Orange", "Cranberry", "Lime"],
+      "price": 200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "LIME COLA",
+      "ingredients": ["Lime Cordial", "Coke"],
+      "price": 200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "VIRGIN PINACOLADA",
+      "ingredients": ["Pineapple", "Coconut Cream"],
+      "price": 200,
+      "image": "url_to_image"
+    }
+  ],
+  "cocktails": [
+    {
+      "name": "ADIOS MOTHERFUCKER",
+      "ingredients": [
+        "Vodka",
+        "Rum",
+        "Tequila",
+        "Gin",
+        "Blue Curacao",
+        "Sprite"
+      ],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "THE PINEAPPLE",
+      "sizes": {
+        "300ml": 400,
+        "400ml": 500,
+        "500ml": 600,
+        "600ml": 1000,
+        "800ml": 800
+      },
+      "ingredients": [
+        "Pineapple Juice",
+        "Vodka",
+        "Triple Sec",
+        "Cointreau",
+        "Lime"
+      ],
+      "image": "url_to_image"
+    },
+    {
+      "name": "MOJITO",
+      "ingredients": ["Rum", "Lime Juice", "Mint", "Soda Water"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "MARGARITA",
+      "ingredients": ["Tequila", "Cointreau", "Lime Juice"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TEQUILA SUNRISE",
+      "ingredients": ["Tequila", "Grenadine Syrup", "Orange Juice"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "LONG ISLAND",
+      "sizes": {
+        "800ml": 800,
+        "1000ml": 1000
+      },
+      "ingredients": [
+        "Vodka",
+        "Tequila",
+        "White Rum",
+        "Triple Sec",
+        "Gin",
+        "Splash of Cola"
+      ],
+      "image": "url_to_image"
+    },
+    {
+      "name": "CUBA LIBRE",
+      "ingredients": ["Rum", "Lime Juice", "Coke"],
+      "price": 800,
+      "image": "url_to_image"
+    },
+    {
+      "name": "HOT TODDY",
+      "ingredients": ["Hot Water", "Brandy", "Honey", "Lemon Juice"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "WHISKY SOUR",
+      "ingredients": ["Whisky", "Egg White", "Lemon Juice", "Syrup"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "PINACOLADA",
+      "sizes": {
+        "500ml": 1000,
+        "800ml": 800
+      },
+      "ingredients": [
+        "Pineapple Juice",
+        "Malibu",
+        "Coconut Cream",
+        "Lime Juice"
+      ],
+      "image": "url_to_image"
+    },
+    {
+      "name": "SCREW DRIVER",
+      "ingredients": ["Vodka", "Orange Juice"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "BLUE LAGOON",
+      "ingredients": ["Blue Curacao", "Vodka", "Lemonade"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "911 SINGLE",
+      "ingredients": ["Gin", "Lime Juice", "Passion Juice", "Syrup"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "OLD FASHIONED",
+      "ingredients": ["Whiskey", "Sugar Cube", "Bitters"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "DIRTY MARTINI",
+      "ingredients": ["Vodka", "Vermouth", "Lime", "Olives"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "ORGASM",
+      "ingredients": ["Amaretto", "Irish Cream", "Kahlua"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "RUSTY NAIL",
+      "ingredients": ["Whiskey", "Drambuie"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "LUCIEN GAUDIN",
+      "ingredients": ["Gin", "Vermouth", "Cointreau", "Campari"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SEX IN THE BEACH",
+      "ingredients": ["Cranberry", "Orange", "Vodka", "Triple Sec"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "GIN FIZZ",
+      "ingredients": ["Gin", "Lemon Juice", "Syrup", "Soda Water", "Egg White"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "TWIN TOWER",
+      "sizes": {
+        "600ml": 800,
+        "800ml": 800
+      },
+      "alcohol_content": "75%",
+      "ingredients": ["Gin", "Orange Juice", "Passion Juice", "Lime Juice"],
+      "image": "url_to_image"
+    },
+    {
+      "name": "MADRAS",
+      "ingredients": ["Vodka", "Cranberry Juice", "Orange Juice", "Bitters"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "MAI TAI",
+      "ingredients": ["Pineapple Juice", "Orange Juice", "Rum", "Syrup"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "SOUTHERN HARMONY",
+      "ingredients": ["Southern Comfort", "JID", "Lime Juice", "Sprite"],
+      "price": null,
+      "image": "url_to_image"
+    },
+    {
+      "name": "JAGER BOMB",
+      "ingredients": ["Jagermeister", "Redbull"],
+      "sizes": {
+        "600ml": 700,
+        "800ml": 800
+      },
+      "image": "url_to_image"
+    }
+  ]
+}
