@@ -794,5 +794,166 @@
       },
       "image": "url_to_image"
     }
+  ],
+  "Breakfast": [
+    {
+      "name": "Beef Sausage",
+      "price": 60
+    },
+    {
+      "name": "Chicken Sausage",
+      "price": 60
+    },
+    {
+      "name": "Samosa",
+      "price": 60
+    },
+    {
+      "name": "Fried Eggs",
+      "price": 100
+    },
+    {
+      "name": "Omelette",
+      "price": 200
+    },
+    {
+      "name": "Chapati",
+      "price": 50
+    },
+    {
+      "name": "Ngwaci",
+      "price": 100
+    },
+    {
+      "name": "Nduma",
+      "price": 100
+    },
+    {
+      "name": "Mahamri",
+      "price": 40
+    },
+    {
+      "name": "Kenyan Tea",
+      "price": 150
+    },
+    {
+      "name": "Black Coffee",
+      "price": 150
+    },
+    {
+      "name": " White Coffee",
+      "price": 200
+    },
+    {
+      "name": "Porridge",
+      "price": 150
+    },
+    {
+      "name": "Fresh Juice",
+      "price":400
+    },
+    {
+      "name": "Orange Juice",
+      "price": 500
+    }
+  ],
+  "Main Dishes": [
+    {
+      "name": "Beef Wet Fry",
+      "price": 700,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Beef Dry Fry",
+      "price": 700,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Anti Theft",
+      "price": 700,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Glazed Pork Ribs",
+      "price": 900,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Pork 1/2 kg",
+      "price": 850,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Athola",
+      "price": 600,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Matumbo Wet Fry",
+      "price": 300,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Chicken Stew (Kienyeji)",
+      "price": 600,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Chicken Dry (Kienyeji)",
+      "price": 600,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 600,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Fish Wet Fry (Tilapia)",
+      "price": 700,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Fish Dry Fry (Tilapia)",
+      "price": 800,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Mbuzi",
+      "price": 750,
+      "image": "url_to_image"
+    }
+  ],
+  "Sides": [
+    {
+      "name": "French Fries",
+      "price": 200,
+      "image": "url_to_image"
+    },
+    {
+      "name": "Saute Potatoes",
+      "price": 250,
+      "image": "url_to_image"
+    },{
+      "name": "Managu / kunde",
+      "price": 100,
+      "image": "url_to_image"
+    },{
+      "name": "Brown Ugali",
+      "price": 150,
+      "image": "url_to_image"
+    },{
+      "name": "White Ugali",
+      "price": 100,
+      "image": "url_to_image"
+    },{
+      "name": "Kachumbari ",
+      "price": 100,
+      "image": "url_to_image"
+    },{
+      "name": "Choma Sausage",
+      "price": 150,
+      "image": "url_to_image"
+    }
   ]
 }
